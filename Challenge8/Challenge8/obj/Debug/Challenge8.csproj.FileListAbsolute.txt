@@ -1,0 +1,6 @@
+/Users/simonecampo/Desktop/University/Coding/ShowCodes/Challenge 8/Challenge8/Challenge8/bin/Debug/Challenge8.exe
+/Users/simonecampo/Desktop/University/Coding/ShowCodes/Challenge 8/Challenge8/Challenge8/bin/Debug/Challenge8.pdb
+/Users/simonecampo/Desktop/University/Coding/ShowCodes/Challenge 8/Challenge8/Challenge8/obj/Debug/Challenge8.csprojAssemblyReference.cache
+/Users/simonecampo/Desktop/University/Coding/ShowCodes/Challenge 8/Challenge8/Challenge8/obj/Debug/Challenge8.csproj.CoreCompileInputs.cache
+/Users/simonecampo/Desktop/University/Coding/ShowCodes/Challenge 8/Challenge8/Challenge8/obj/Debug/Challenge8.exe
+/Users/simonecampo/Desktop/University/Coding/ShowCodes/Challenge 8/Challenge8/Challenge8/obj/Debug/Challenge8.pdb
